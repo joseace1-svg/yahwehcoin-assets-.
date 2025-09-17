@@ -12,4 +12,5 @@ This repository contains the official logo and asset files for **YahwehCoin (YHW
 ## 📷 Logo
 The official YahwehCoin logo is stored in this repository and can be used for token list verification on Solana wallets and DEXs.  
 
-**Logo URL (raw link):**  
+**Logo URL (raw link):  https://raw.githubusercontent.com/joseacevedo/yahwehcoin-assets/main/logo.png
+ 
